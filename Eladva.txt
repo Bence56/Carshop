@@ -1,0 +1,2 @@
+Toyota;Prius;8;Hibrid;2015;5;Feher;2000000;Wisztercill Janos;1999.9.20.;jana0920@gmail.com;
+Honda;Civic;6;Benzin;1998;5;Szurke;475000;Szabo Mark;1999.9.27.;apadhegeszt@freemail.hu;

@@ -1,0 +1,41 @@
+3
+Nissan
+Leaf
+3
+3
+2010
+5
+Piros
+12000000
+Horvath Andras
+1975
+2
+3
+handras@teslasok.hu
+3
+Ferrari
+458 Italia
+18
+1
+2017
+2
+Piros
+30000000
+TJ Hunt
+1983
+4
+5
+tj@huntco.com
+1
+2
+5
+6
+Piros
+5
+0
+iss
+4
+3
+1
+2
+0

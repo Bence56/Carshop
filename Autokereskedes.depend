@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1557574640 source:c:\users\bsfcb\desktop\bme\2. félév\prog 2\nagyházi autókereskedés modellezése\autokereskedes\main.cpp
+	"fuggvenyek.hpp"
+	<stdlib.h>
+	"autolista.h"
+	"datum.h"
+
+1557488383 source:c:\users\bsfcb\desktop\bme\2. félév\prog 2\nagyházi autókereskedés modellezése\autokereskedes\datum.cpp
+	"datum.h"
+
+1557488281 c:\users\bsfcb\desktop\bme\2. félév\prog 2\nagyházi autókereskedés modellezése\autokereskedes\datum.h
+	<iostream>
+
+1557487955 source:c:\users\bsfcb\desktop\bme\2. félév\prog 2\nagyházi autókereskedés modellezése\autokereskedes\auto.cpp
+	"auto.h"
+	<iostream>
+
+1557488268 c:\users\bsfcb\desktop\bme\2. félév\prog 2\nagyházi autókereskedés modellezése\autokereskedes\auto.h
+	<string>
+
+1557488383 source:c:\users\bsfcb\desktop\bme\2. félév\prog 2\nagyházi autókereskedés modellezése\autokereskedes\autolista.cpp
+	"autolista.h"
+	"auto.h"
+	<iostream>
+
+1556146420 c:\users\bsfcb\desktop\bme\2. félév\prog 2\nagyházi autókereskedés modellezése\autokereskedes\autolista.h
+	"auto.h"
+	"szemely.h"
+	<stdexcept>
+
+1557488383 source:c:\users\bsfcb\desktop\bme\2. félév\prog 2\nagyházi autókereskedés modellezése\autokereskedes\szemely.cpp
+	"szemely.h"
+
+1557577790 c:\users\bsfcb\desktop\bme\2. félév\prog 2\nagyházi autókereskedés modellezése\autokereskedes\szemely.h
+	<string>
+	"datum.h"
+
+1555249556 source:c:\users\bsfcb\desktop\bme\2. félév\prog 2\nagyházi autókereskedés modellezése\autokereskedes\fuggvenyek.cpp
+	"autolista.h"
+
+1557488383 c:\users\bsfcb\desktop\bme\2. félév\prog 2\nagyházi autókereskedés modellezése\autokereskedes\fuggvenyek.hpp
+	"autolista.h"
+	<cstdlib>
+	<string>
+	<fstream>
+	<iostream>
+	<sstream>
+
+1556146322 source:c:\users\bsfcb\desktop\bme\2. félév\prog 2\nagyházi autókereskedés modellezése\autokereskedes\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1553613882 c:\users\bsfcb\desktop\bme\2. félév\prog 2\nagyházi autókereskedés modellezése\autokereskedes\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+
+1557574347 source:c:\users\bsfcb\desktop\bme\2. félév\prog 2\nagyházi autókereskedés modellezése\autokereskedes\tesztek.cpp
+

@@ -1,0 +1,6 @@
+Volkwagen;Passat B05;7;Benzin;1996;5;Vilagoskek;400000;Somogyi Bence;1999.11.6.;bence.somogyi56@gmail.com;
+Seat;Leon;7;Benzin;2000;5;Bordo;550000;Csovalowszky Tomsz;1998.1.13.;csova@onemansquad.com;
+Tesla;Model 3 P100D;10;Elektromos;2019;5;Feher;18000000;Elon Musk;1971.7.23.;CEO@teslamotors.com;
+Porsche;991 GT3RS 3.0;15;Benzin;2018;2;Feher;50000000;Kevin Estre;1987.2.3.;kevin.estre@nurburgring.de;
+Nissan;GTR R35;25;Benzin;2017;2;Guac;60000000;Tanner Fox;1999.12.4.;boss@tfoxbrand.com;
+Ford;Mondeo;6.7;Benzin;2002;5;Ezust;654321;Seres Barnabas;1999.6.21.;barna@sch.bme.hu;
